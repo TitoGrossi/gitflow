@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/TitoGrossi/gitflow/custommath"
 )
 
 func main() {
-
-	fmt.Println("Um print qualquer")
+	fmt.Printf("%d", custommath.Sum(1, 2))
 }
