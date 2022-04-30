@@ -18,3 +18,7 @@
 **Auto Changelog inspiration: https://mokkapps.de/blog/how-to-automatically-generate-a-helpful-changelog-from-your-git-commit-messages/**
 
 **standard-version repo: https://github.com/conventional-changelog/standard-version**
+
+
+## Github action para subir imagem docker:
+**https://github.com/marketplace/actions/build-and-push-docker-images**
