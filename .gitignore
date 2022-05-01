@@ -1,1 +1,4 @@
 node_modules/
+.scannerwork
+coverage.out
+to_remember.txt
