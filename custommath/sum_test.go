@@ -12,3 +12,10 @@ func TestSum(t *testing.T) {
 		t.Errorf("Got unexpected result: Got %d, Expected %d", total, 30)
 	}
 }
+
+func TestSubtraction(t *testing.T) {
+	total := custommath.Subtraction(15, 10)
+	if total != 5 {
+		t.Errorf("Got unexpected result: Got %d, Expected %d", total, 5)
+	}
+}
